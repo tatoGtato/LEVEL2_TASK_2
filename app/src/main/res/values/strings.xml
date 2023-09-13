@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Truth Table</string>
+    <string name="title">Conjunction Table</string>
+    <string name="title2">(AND)</string>
+    <string name="next">Next</string>
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">A^B</string>
+    <string name="answer_is_true">Answer is indeed true, correct!</string>
+    <string name="answer_is_false">Answer is indeed false, correct!</string>
+    <string name="wrong_answer">Wrong answer!</string>
+    <string name="f">F</string>
+    <string name="t">T</string>
+</resources>
